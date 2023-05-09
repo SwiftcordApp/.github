@@ -1,28 +1,25 @@
-<img src="res/swiftcord_new_icon.png" height="128" align=right>
+<img src="/res/swiftcord_new_icon.png" height="128" align=right>
 
-
-# Swiftcord
+# [Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
 
 A beautiful and blazingly fast native macOS Discord client, built in SwiftUI.
 
-<img width=100% src="res/hero.webp">
+<img width=100% src="/res/hero.webp">
 
-#### Nightly Build
-[![Nightly build action status](https://img.shields.io/github/actions/workflow/status/SwiftcordApp/Swiftcord/build.yaml.svg?style=for-the-badge)](https://nightly.link/SwiftcordApp/Swiftcord/workflows/build.yaml/main/swiftcord-canary.zip)
+### Downloads
 
-#### Releases
+Give Swiftcord a try! Nightly builds (recommended) are built from every commit on `main`, while releases are more stable but updated less frequently.
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cryptoAlgorithm/Swiftcord?style=for-the-badge)](https://github.com/cryptoAlgorithm/Swiftcord/releases/)
+[![Nightly build action status](https://img.shields.io/github/actions/workflow/status/SwiftcordApp/Swiftcord/build.yaml.svg?style=for-the-badge&label=Nightly%20Build)](https://nightly.link/SwiftcordApp/Swiftcord/workflows/build.yaml/main/swiftcord-canary.zip)&nbsp;&nbsp;[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cryptoAlgorithm/Swiftcord?style=for-the-badge)](https://github.com/cryptoAlgorithm/Swiftcord/releases/)
 
 ---
 
-<p>
-<img src="res/discordKit_icon.png" height="128" align=left>
-<h1>DiscordKit</h1>
+<img src="/res/discordKit_icon.png" height="128" align=left>
+
+# [DiscordKit](https://github.com/SwiftcordApp/DiscordKit)
 
 The missing Swift Discord library. Build elegant Discord bots with a simple resultBuilder-powered
 slash command builder.
-</p>
 
 Here's all you need to build a bot with DiscordKit (it's that simple):
 ```swift
