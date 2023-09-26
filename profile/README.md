@@ -1,3 +1,11 @@
+# Contact Us!
+
+Wanna talk about Swiftcord/Discord or just hang around? Join us in Discord!
+
+<a aria-label="Join the community on Discord" href="https://discord.gg/he7n6MGDXS" target="_blank">
+  <img alt="" src="https://img.shields.io/discord/964741354112577557?style=for-the-badge&labelColor=black&label=Discord%20Server">
+</a>
+
 <img src="/res/swiftcord_new_icon.png" height="128" align=right>
 
 # [Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
